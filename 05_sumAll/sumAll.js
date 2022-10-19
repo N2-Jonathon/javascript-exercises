@@ -1,8 +1,3 @@
-function range(start, end) {
-  var ans = []
-
-}
-
 const sumAll = function(int1, int2) {
   var sum = 0;
   
